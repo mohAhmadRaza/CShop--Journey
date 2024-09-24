@@ -26,3 +26,4 @@ C:\Users\LENOVO\Documents\CodingJourney\.NET\WindowsFormApp\obj\Debug\net8.0-win
 C:\Users\LENOVO\Documents\CodingJourney\.NET\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.pdb
 C:\Users\LENOVO\Documents\CodingJourney\.NET\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.genruntimeconfig.cache
 C:\Users\LENOVO\Documents\CodingJourney\.NET\WindowsFormApp\obj\Debug\net8.0-windows\ref\WindowsFormApp.dll
+C:\Users\LENOVO\Documents\CodingJourney\.NET\WindowsFormApp\obj\Debug\net8.0-windows\WindowsFormApp.sourcelink.json
